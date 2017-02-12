@@ -1,0 +1,5 @@
+maven_jar(
+		name = "json",
+		artifact ="org.json:json:20160810",
+		)
+
